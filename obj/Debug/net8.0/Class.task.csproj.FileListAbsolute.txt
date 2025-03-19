@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\c#\New folder\Class.task\bin\Debug\net8.0\Class.task.exe
+C:\Users\Admin\Desktop\c#\New folder\Class.task\bin\Debug\net8.0\Class.task.deps.json
+C:\Users\Admin\Desktop\c#\New folder\Class.task\bin\Debug\net8.0\Class.task.runtimeconfig.json
+C:\Users\Admin\Desktop\c#\New folder\Class.task\bin\Debug\net8.0\Class.task.dll
+C:\Users\Admin\Desktop\c#\New folder\Class.task\bin\Debug\net8.0\Class.task.pdb
+C:\Users\Admin\Desktop\c#\New folder\Class.task\obj\Debug\net8.0\Class.task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\c#\New folder\Class.task\obj\Debug\net8.0\Class.task.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\c#\New folder\Class.task\obj\Debug\net8.0\Class.task.AssemblyInfo.cs
+C:\Users\Admin\Desktop\c#\New folder\Class.task\obj\Debug\net8.0\Class.task.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c#\New folder\Class.task\obj\Debug\net8.0\Class.task.sourcelink.json
+C:\Users\Admin\Desktop\c#\New folder\Class.task\obj\Debug\net8.0\Class.task.dll
+C:\Users\Admin\Desktop\c#\New folder\Class.task\obj\Debug\net8.0\refint\Class.task.dll
+C:\Users\Admin\Desktop\c#\New folder\Class.task\obj\Debug\net8.0\Class.task.pdb
+C:\Users\Admin\Desktop\c#\New folder\Class.task\obj\Debug\net8.0\Class.task.genruntimeconfig.cache
+C:\Users\Admin\Desktop\c#\New folder\Class.task\obj\Debug\net8.0\ref\Class.task.dll
